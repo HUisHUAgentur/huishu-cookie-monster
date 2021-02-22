@@ -1,0 +1,28 @@
+{
+    "admin_pages": [
+        "toplevel_page_huishu_cookie_monster_options"
+    ],
+    "options": {
+        "huishu_cookie_monster_options": {
+            "cookie_banner_content":{},
+            "ga_cookie_description":{},
+            "ga_cookie_runtime":{},
+            "fb_cookie_description":{},
+            "fb_cookie_runtime":{},
+            "yt_cookie_description":{},
+            "yt_cookie_runtime":{},
+            "vimeo_cookie_description":{},
+            "vimeo_cookie_runtime":{},
+            "artetv_cookie_description":{},
+            "artetv_cookie_runtime":{},
+            "etracker_cookie_description":{},
+            "etracker_cookie_runtime":{},
+            "custom_cookies":{
+                "wpm_each": {
+                    "description":{},
+                    "runtime":{}
+                }
+            }
+        }
+    }
+}
