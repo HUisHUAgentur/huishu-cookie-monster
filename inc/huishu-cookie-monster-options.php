@@ -3,7 +3,7 @@
 defined( 'ABSPATH' ) or die( 'No no no!' );
 
 class HUisHUCookieMonsterOptions{
-	public static function get($key,$default_value=0){
+	public static function get($key, $default_value = 0){
 		$options_name = 'huishu_cookie_monster_options';
 		if ( function_exists('cmb2_get_option') ) {
 			// Use cmb2_get_option as it passes through some key filters.
