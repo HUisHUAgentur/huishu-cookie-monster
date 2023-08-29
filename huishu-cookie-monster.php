@@ -3,7 +3,7 @@
 Plugin Name: HUisHU Cookie Monster
 Description: Die vollständige Breitband Cookie Lösung für DSGVO, e-privacy etc. NOM NOM NOM NOM
 Version: 1.5
-Author: HUisHU
+Author: HUisHU. Digitale Kreativagentur GmbH
 Author URI: https://www.huishu-agentur.de
 */
 
